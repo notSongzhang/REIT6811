@@ -1,0 +1,25 @@
+Activity 1: 
+
+a. 
+Newspaper article: Written for the general public; focuses on current events, concise reporting, and accessible language. It is less detailed and usually not peer-reviewed.
+Blog post: Informal, often opinion-based or personal reflections. Can range from casual commentary to semi-professional analysis, but not subject to formal peer review.
+Journal article: Scholarly, peer-reviewed research publication intended for academic audiences. Includes methodology, data, analysis, and citations. Uses formal, technical language.
+
+b. 
+Newspaper article: Likely to start with a hook—a striking fact, event, or summary
+Journal article: Likely to start with context or research framing
+
+c. 
+I may use newspaper articles as references because newspaper articles may provide real-world cases, statistics, or public responses that illustrate the urgency or societal impact. However there are limit reliance: They are not peer-reviewed and may lack depth, so they should supplement academic sources.
+
+Activity 2:
+
+a. 
+Background and context of prior research; Key theories, models, or frameworks used; Strengths and weaknesses of previous work; Gaps or inconsistencies that justify new research; Evidence-based findings rather than opinions.
+
+b. 
+Data availability: Getting high-quality datasets of indoor environments to test different SLAM systems fairly.Evaluation metrics: Choosing consistent criteria such as accuracy, robustness, computational efficiency, and memory usage. Implementation complexity: Some SLAM systems may be harder to set up and require specific hardware or sensors. Reproducibility: Differences in datasets and robot platforms may make fair comparison difficult.
+
+c. 
+1.Many studies focus on single SLAM algorithms, but fewer provide direct comparative analyses across multiple systems under the same conditions.
+2.Limited research exists on real-world indoor environments with dynamic changes

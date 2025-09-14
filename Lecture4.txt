@@ -1,0 +1,37 @@
+Lecture 4:
+Activity 1: 
+a. 
+The number of citations; independent peer review; methodological rigor and transparency
+
+b. 
+Someone who asks important, well-scoped questions, uses sound methods transparently, and contributes reproducible, cumulative knowledge while acting ethically and collaborating well.
+
+c. 
+Blend quantitative metrics (h-index, field-normalized citations, grant success, datasets/code reused) with qualitative signals (peer-reviewed recognition, invited talks, societal/industry impact), always benchmarked to field and career stage.
+
+Activity 2:
+Find the top 3 journals in Information Systems using
+
+Web of Science
+
+Scopus
+1. International Journal of Information Management
+2. AI Open Open Access
+3. IEEE/CAA Journal of Automatica Sinica
+
+Google Scholar
+1. IEEE Transactions on Knowledge and Data Engineering
+2. ACM SIGIR Conference on Research and Development in Information Retrieval
+3. International World Wide Web Conferences (WWW)
+
+Comment on my findings: Category boundaries vary a lot. In different database, the category contains different content. 
+
+Activity 3: 
+The h-index for Professor Markus Barth on
+Web of Science
+42
+Scopus 
+43
+Google Scholar (in search author:<name>)
+53
+Comment on my findings: The settings for the h-index vary among different platforms.

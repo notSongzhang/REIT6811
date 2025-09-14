@@ -1,0 +1,23 @@
+Lecture 5
+Activity 1
+a.
+The "X" in arXiv is capitalized because it refers to the word archive, where “X” stands for a Greek letter, a common shorthand in computing and physics. Thus, arXiv is a stylized form of “archive.”
+
+b.
+A good reference would be a primary, authoritative source.
+
+Activity 2
+a.
+La comes from Leslie Lamport(Who developed it)
+TeX is Donald Knuth's typesetting system.
+
+b.
+A good reference would be:
+The official LaTeX Project website, or the original documentation/manuals.
+
+Activity 3
+a.
+No. This project compares different SLAM algorithms using simulations, benchmarks, or existing datasets for indoor mobile robots. Since it does not involve human participants, personal information, or sensitive data, it does not require formal ethics approval.
+
+b.
+The potential risks in this project are mainly technical. There is a medium risk of poor data quality, as public datasets may be noisy or incomplete. Hardware or simulation errors and the computational complexity of some SLAM algorithms also pose medium risks. Time management is a high risk because comparing several systems within a limited period could cause delays. Ethical risks are very low since no human data is involved

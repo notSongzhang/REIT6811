@@ -1,0 +1,85 @@
+Tutorial journals
+1. 
+a.
+   paper1: 10 citations
+   paper2: 8 citations
+   paper3: 0 citations
+h-index=2
+
+b.
+The largest h such that h items(papers)each have >= citations.
+For journals, it's all papers published by that journal, whereas for an author it's that author's publications.
+
+c.
+maximum h-index: 12 papers*10 years=120
+
+d.
+h-index=7. Because there are at least 7 papers with equal or more than 7 citations.
+
+2.
+a.
+Computational Visual Media   JIF=17.3
+Computer Science Review    JIF=13.3
+COMMUNICATIONS OF THE ACM   JIF=11.1
+
+b.
+The JIF is a bibliometric indicator used to measure the average citation impact of articles published in a journal
+
+c.
+In google scholar,
+Computational Visual Media h5-indices=33
+Computer Science Review h5-indices=88
+COMMUNICATIONS OF THE ACM h5-indices=74
+
+d.
+Web of Science tracks citations only from peer-reviewed journals and conferences, so its Impact Factors reflect a narrower, possibly more conservative count, typically leading to different ranking outcomes compared with Google Scholar.
+
+3.
+a.
+There are 124 journals in this category.
+
+b.
+Choose quartile2 in JIF Quartile.
+
+c.
+IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING
+
+4.
+a.
+FoR codes are used to classify research activities by discipline, providing a standard framework for reporting and evaluation. They are closely linked to funding because grant applications, research assessments, and government resource allocations are organised and compared according to FoR classifications.
+
+b.
+Graphics, augmented reality and games
+
+c.
+Cognitive and computational psychology: 5204
+
+5.
+a.
+No, because CORE database focuses mainly on computing.
+
+b.
+A* and A:
+IEEE/ACM International Symposium on Mixed and Augmented Reality
+ACM SIG International Conference on Computer Graphics and Interactive Techniques
+IEEE Conference on Virtual Reality and 3D User Interfaces
+
+6.
+a.
+h-index=249 in total, 212 since 2020
+
+b.
+Citations and h-index change continuously as new papers and citations accrue, so reporting the date makes your numbers reproducible and comparable.
+
+c.
+h-index in Scopus: 161
+
+d.
+h-index in Web of Science: 101
+
+e.
+Google Scholar is the broadest, so it usually yields higher citations and h-index. Scopus has wide journal + conference coverage but is curated; Web of Science Core Collection is the most selective. Coverage and disambiguation rules differ, so Bengio's metrics systematically vary across the three database.
+
+f.
+In cs, the h-index is supposed to increase by 1 each year. Prof.Bengio's h-index is supposed to be 34(1991-2025), but the actual value is far more than 34, which means he has great influence in computer science.
+
